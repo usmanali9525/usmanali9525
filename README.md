@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/usman_ali9525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usman_ali9525" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/usman-ali-24638a195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman-ali-24638a195" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/usmanali9525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman-ali-24638a195" height="30" width="40" /></a>
 <a href="https://kaggle.com/usmanali9525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="usmanali9525" height="30" width="40" /></a>
 <a href="https://fb.com/usmanali9525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usmanali9525" height="30" width="40" /></a>
 <a href="https://instagram.com/usmanali9525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usmanali9525" height="30" width="40" /></a>
