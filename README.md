@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usman Ali</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate AI/ML Engineer</h3>
 
-- 🌱 I’m currently learning **Data Science, Artificial Intelligence, Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Deep Learning**
 
 - 💬 Ask me about **anything**
 
